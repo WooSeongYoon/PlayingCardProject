@@ -7,7 +7,7 @@
 <img src="https://github.com/user-attachments/assets/dfaa481d-28f0-4996-9505-ef32db6c03f5" width="600" height="400"/>
 
 ## 설계 및 구현
-<img src="https://github.com/user-attachments/assets/da63c015-b35e-442a-a0c6-5b861588c352" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/da63c015-b35e-442a-a0c6-5b861588c352" width="600" height="250"/>
 
 ### 데이터베이스
 - E-R 다이어그램
