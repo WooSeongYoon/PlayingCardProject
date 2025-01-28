@@ -14,10 +14,17 @@
 
 - 전처리 과정
 <img src="https://github.com/user-attachments/assets/e9c664f2-68f1-43b7-bedd-e5aae7cf88f2" width="600" height="250"/>
+
 본 이미지는 사용될 실험 환경을 구현할 수 있을 정도의 수준까지 구현시켜 프로그램의 작동 방식 중 전처리가 된 이미지를 반으로 자르는 처리 과정을 기반으로 이미지 생성을 저장시킬 때의 이미지를 데이터 셋에 삽입시켜 정확도를 높이기 위해 다음과 같은 훈련 데이터 증강 과정을 거쳤습니다.   
 그렇게 train 12,448장, valid 5,329장, test 2,052장의 데이터셋을 직접 제작했습니다.
-### CNN 모델
 
+### CNN 모델
+문자 CNN에 전체 25,956장: train 20,236장, valid 3,796장, test 1,924장   
+문양 CNN에 전체 25,765장: train 20,045장, valid 3,796장, test 1,924장으로 구성되었고,   
+각각 100 epoch만큼 훈련시켰습니다.   
+<img src="https://github.com/user-attachments/assets/9d79f8f3-040b-46cf-840d-da1acce8f028" width="600" height="250"/>
+
+훈련 결과에서는 loss값 0.0189, accuracy 0.9965가 나왔습니다.   
 ### 데이터베이스
 - E-R 다이어그램
 <img src="https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109" width="500" height="250"/>
