@@ -12,6 +12,10 @@
 ### YOLOv5 모델
 <img src="https://github.com/user-attachments/assets/30116fb7-1b8e-4ea6-9e32-f2423ae9609d" width="600" height="250"/>
 
+- 전처리 과정
+<img src="https://github.com/user-attachments/assets/e9c664f2-68f1-43b7-bedd-e5aae7cf88f2" width="600" height="250"/>
+본 이미지는 사용될 실험 환경을 구현할 수 있을 정도의 수준까지 구현시켜 프로그램의 작동 방식 중 전처리가 된 이미지를 반으로 자르는 처리 과정을 기반으로 이미지 생성을 저장시킬 때의 이미지를 데이터 셋에 삽입시켜 정확도를 높이기 위해 다음과 같은 훈련 데이터 증강 과정을 거쳤습니다.   
+그렇게 train 12,448장, valid 5,329장, test 2,052장의 데이터셋을 직접 제작했습니다.
 ### CNN 모델
 
 ### 데이터베이스
