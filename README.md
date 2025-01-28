@@ -11,7 +11,7 @@
 
 ### 데이터베이스
 - E-R 다이어그램
-<img src="https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109" width="500" height="300"/>
+<img src="https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109" width="500" height="200"/>
 
 - 저장 결과
 <img src="https://github.com/user-attachments/assets/86a49f39-b63a-401e-9a2e-640cf380b1a3" width="500" height="300"/>
