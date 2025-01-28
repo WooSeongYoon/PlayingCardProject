@@ -25,6 +25,7 @@
 <img src="https://github.com/user-attachments/assets/9d79f8f3-040b-46cf-840d-da1acce8f028" width="500" height="250"/>
 
 훈련 결과에서는 loss값 0.0189, accuracy 0.9965가 나왔습니다.   
+
 ### 데이터베이스
 - E-R 다이어그램
 <img src="https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109" width="500" height="250"/>
@@ -36,3 +37,6 @@
 ![image](https://github.com/user-attachments/assets/c3f882ad-72b9-4bec-9805-122b1c2fc936)
 
 ## 성과
+- 2023.09.27. | [대구대학교 Linc3.0] 80만원 지원금 선정
+- 2023.11.01. | [대구대학교 공학교육혁신센터] 180만원 지원금 선정
+- 2023.12.12. | [대구대학교 Linc3.0] 캡스톤디자인 장려상
