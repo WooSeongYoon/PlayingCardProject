@@ -8,7 +8,12 @@
 
 ## 설계 및 구현
 ![image](https://github.com/user-attachments/assets/da63c015-b35e-442a-a0c6-5b861588c352)
+
+### 데이터베이스
+- E-R 다이어그램
 ![image](https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109)
+- 저장 결과
+![image](https://github.com/user-attachments/assets/86a49f39-b63a-401e-9a2e-640cf380b1a3)
 
 ## 프로그램 실행
 ![image](https://github.com/user-attachments/assets/c3f882ad-72b9-4bec-9805-122b1c2fc936)
