@@ -6,4 +6,9 @@
 ## 개발 배경
 <img src="https://github.com/user-attachments/assets/dfaa481d-28f0-4996-9505-ef32db6c03f5" width="600" height="400"/>
 
+## 설계 및 구현
 ![image](https://github.com/user-attachments/assets/da63c015-b35e-442a-a0c6-5b861588c352)
+![image](https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109)
+
+## 프로그램 실행
+![image](https://github.com/user-attachments/assets/c3f882ad-72b9-4bec-9805-122b1c2fc936)
