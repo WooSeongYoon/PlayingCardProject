@@ -4,4 +4,4 @@
 시연 영상: https://youtu.be/8ZgTw1cgxm4   
 
 ## 개발 배경
-<img src="https://github.com/user-attachments/assets/dfaa481d-28f0-4996-9505-ef32db6c03f5" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/dfaa481d-28f0-4996-9505-ef32db6c03f5" width="600" height="300"/>
