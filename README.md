@@ -9,6 +9,11 @@
 ## 설계 및 구현
 <img src="https://github.com/user-attachments/assets/da63c015-b35e-442a-a0c6-5b861588c352" width="600" height="250"/>
 
+### YOLOv5 모델
+<img src="https://github.com/user-attachments/assets/30116fb7-1b8e-4ea6-9e32-f2423ae9609d" width="600" height="250"/>
+
+### CNN 모델
+
 ### 데이터베이스
 - E-R 다이어그램
 <img src="https://github.com/user-attachments/assets/b88865ff-68c8-4013-8a39-2d5900078109" width="500" height="250"/>
