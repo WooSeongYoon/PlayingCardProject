@@ -22,7 +22,7 @@
 문자 CNN에 전체 25,956장: train 20,236장, valid 3,796장, test 1,924장   
 문양 CNN에 전체 25,765장: train 20,045장, valid 3,796장, test 1,924장으로 구성되었고,   
 각각 100 epoch만큼 훈련시켰습니다.   
-<img src="https://github.com/user-attachments/assets/9d79f8f3-040b-46cf-840d-da1acce8f028" width="600" height="250"/>
+<img src="https://github.com/user-attachments/assets/9d79f8f3-040b-46cf-840d-da1acce8f028" width="500" height="250"/>
 
 훈련 결과에서는 loss값 0.0189, accuracy 0.9965가 나왔습니다.   
 ### 데이터베이스
